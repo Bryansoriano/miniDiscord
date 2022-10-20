@@ -1,0 +1,2 @@
+# miniDiscord
+Scalable mini discord
